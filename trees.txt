@@ -1,5 +1,12 @@
 a Apple
+<<<<<<< HEAD
 b Banyan
 c Cedar 11
 d Dogwood
 e Elm11
+=======
+b Baobab
+Cherry12
+d Dogwood
+Elder123
+>>>>>>> 67d750a360bcddb303e87a02fcba54d52e60b438
