@@ -1,5 +1,5 @@
 a Apple
 b Baobab
-c Cherry
+Cherry
 d Dogwood
-e Elder
+Elder
