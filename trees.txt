@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 a Apple
 b Banyan
 c Cherry
 d Dogwood
 e Elder
+=======
+a alder
+b Baobad
+c Cherry
+d Dogwood,
+e Elm
+>>>>>>> alternative
