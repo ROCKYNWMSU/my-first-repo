@@ -1,5 +1,5 @@
-a Apple
-b Banyan
-c Cedar 11
-d Dogwood
-e Elm11
+a alder
+b Baobad
+c Cherry
+d Dogwood,
+e Elm
